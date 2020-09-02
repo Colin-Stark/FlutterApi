@@ -1,7 +1,8 @@
+{
+"page": category,
+"Total-Category": 15,
+
 "data": [
-    {
-        "Total-Category" : "15"
-    }
     {
         "ID" : "1",
         "Type" : "Ice-Cream",
@@ -138,3 +139,5 @@
         "Last-Edited" : "Not yet Edited"
     }
 ]
+
+}
