@@ -1,0 +1,140 @@
+[
+    {
+        "Total-Category" : "15"
+    }
+    {
+        "ID" : "1",
+        "Type" : "Ice-Cream",
+        "Creator" : "Icognito Developer",
+        "Twitter" : "Freaking_Colin",
+        "Email" : "Collinscodes@gmail.com",
+        "Date-Created" : "29 August 2020",
+        "Last-Edited" : "Not yet Edited"
+    },
+    {
+        "ID" :"2",
+        "Type" : "Pizza",
+        "Creator" : "Icognito Developer",
+        "Twitter" : "Freaking_Colin",
+        "Email" : "Collinscodes@gmail.com",
+        "Date-Created" : "29 August 2020",
+        "Last-Edited" : "Not yet Edited"
+    },
+    {
+        "ID" : "3",
+        "Type" : "Chocolate-Bars",
+        "Creator" : "Icognito Developer",
+        "Twitter" : "Freaking_Colin",
+        "Email" : "Collinscodes@gmail.com",
+        "Date-Created" : "29 August 2020",
+        "Last-Edited" : "Not yet Edited"
+    },
+    {
+        "ID" : "4",
+        "Type" : "Chips",
+        "Creator" : "Icognito Developer",
+        "Twitter" : "Freaking_Colin",
+        "Email" : "Collinscodes@gmail.com",
+        "Date-Created" : "29 August 2020",
+        "Last-Edited" : "Not yet Edited"
+    },
+    {
+        "ID" : "5",
+        "Type" : "Burger",
+        "Creator" : "Icognito Developer",
+        "Twitter" : "Freaking_Colin",
+        "Email" : "Collinscodes@gmail.com",
+        "Date-Created" : "29 August 2020",
+        "Last-Edited" : "Not yet Edited"
+    },
+    {
+        "ID" : "6",
+        "Type" : "Smoothies",
+        "Creator" : "Icognito Developer",
+        "Twitter" : "Freaking_Colin",
+        "Email" : "Collinscodes@gmail.com",
+        "Date-Created" : "29 August 2020",
+        "Last-Edited" : "Not yet Edited"
+    },
+    {
+        "ID" : "7",
+        "Type" : "Sushi",
+        "Creator" : "Icognito Developer",
+        "Twitter" : "Freaking_Colin",
+        "Email" : "Collinscodes@gmail.com",
+        "Date-Created" : "29 August 2020",
+        "Last-Edited" : "Not yet Edited"
+    },
+    {
+        "ID" : "8",
+        "Type" : "Barbeque",
+        "Creator" : "Icognito Developer",
+        "Twitter" : "Freaking_Colin",
+        "Email" : "Collinscodes@gmail.com",
+        "Date-Created" : "29 August 2020",
+        "Last-Edited" : "Not yet Edited"
+    },
+    {
+        "ID" : "9",
+        "Type" : "Adult-Drinks",
+        "Creator" : "Icognito Developer",
+        "Twitter" : "Freaking_Colin",
+        "Email" : "Collinscodes@gmail.com",
+        "Date-Created" : "29 August 2020",
+        "Last-Edited" : "Not yet Edited"
+    },
+    {
+        "ID" : "10",
+        "Type" : "Specials",
+        "Creator" : "Icognito Developer",
+        "Twitter" : "Freaking_Colin",
+        "Email" : "Collinscodes@gmail.com",
+        "Date-Created" : "29 August 2020",
+        "Last-Edited" : "Not yet Edited"
+    },
+    {
+        "ID" : "11",
+        "Type" : "Combo",
+        "Creator" : "Icognito Developer",
+        "Twitter" : "Freaking_Colin",
+        "Email" : "Collinscodes@gmail.com",
+        "Date-Created" : "29 August 2020",
+        "Last-Edited" : "Not yet Edited"
+    },
+    {
+        "ID" : "12",
+        "Type" : "Family-Pack",
+        "Creator" : "Icognito Developer",
+        "Twitter" : "Freaking_Colin",
+        "Email" : "Collinscodes@gmail.com",
+        "Date-Created" : "29 August 2020",
+        "Last-Edited" : "Not yet Edited"
+    },
+    {
+        "ID" : "13",
+        "Type" : "Discount-Meals",
+        "Creator" : "Icognito Developer",
+        "Twitter" : "Freaking_Colin",
+        "Email" : "Collinscodes@gmail.com",
+        "Date-Created" : "29 August 2020",
+        "Last-Edited" : "Not yet Edited"
+    },
+    {
+        "ID" : "14",
+        "Type" : "Bread",
+        "Creator" : "Icognito Developer",
+        "Twitter" : "Freaking_Colin",
+        "Email" : "Collinscodes@gmail.com",
+        "Date-Created" : "29 August 2020",
+        "Last-Edited" : "Not yet Edited"
+    },
+    {
+        "ID" : "15",
+        "Type" : "Soft-Drinks",
+        "Creator" : "Icognito Developer",
+        "Twitter" : "Freaking_Colin",
+        "Email" : "Collinscodes@gmail.com",
+        "Date-Created" : "29 August 2020",
+        "Last-Edited" : "Not yet Edited"
+    }
+]
