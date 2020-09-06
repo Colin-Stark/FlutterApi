@@ -1,0 +1,77 @@
+{
+    "Total-Category":10,
+    
+    "data": [
+        {
+            "ID" : "1",
+            "Image" : "https://images.unsplash.com/photo-1528751014936-863e6e7a319c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=633&q=80",
+            "Descrption": "Potato chips in a bowl, bypass the stress of a can",
+            "price": "$3.50",
+            "Manufacturer": "Pochaps"
+        },
+        {
+            "ID" :"2",
+            "Image" : "https://images.unsplash.com/photo-1518013431117-eb1465fa5752?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "Descrption": "We understand your need for extra sauce so get the chips with ketchup to go",
+            "price": "$8.00",
+            "Manufacturer": "Ketcpa"
+        },
+        {
+            "ID" : "3",
+            "Image" : "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "Descrption": "Simple enjoyable french fries",
+            "price": "$2.00",
+            "Manufacturer": "Paripo"
+        },
+        {
+            "ID" : "4",
+            "Image" : "https://images.unsplash.com/photo-1576642589592-7d9778a1c9e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1320&q=80",
+            "Descrption": "Sanito chips pack blue and white",
+            "price": "$9.00",
+            "Manufacturer": "Sanitos Muchacho"
+        },
+        {
+            "ID" : "5",
+            "Image" : "hhttps://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "Descrption": "Chips Salad in vegetarian form, the healthiest fries you could have",
+            "price": "$4.50",
+            "Manufacturer": "Frilad"
+        },
+        {
+            "ID" : "6",
+            "Image" : "https://images.unsplash.com/photo-1460306855393-0410f61241c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80",
+            "Descrption": "Fries with burger and ketchup to grease it down your throat. The combo meal to have nearby watchers salivating",
+            "price": "$12.00",
+            "Manufacturer": "Bufries"
+        },
+        {
+            "ID" : "7",
+            "Image" : "https://images.unsplash.com/photo-1541809570-35dcc3a080c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80",
+            "Descrption": "Plantain Chips for those who cant stand potato chips",
+            "price": "$5.55",
+            "Manufacturer": "Kpekere"
+        },
+        {
+            "ID" : "8",
+            "Image" : "https://images.unsplash.com/photo-1504693390394-c24671c3e8bb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "Descrption": "Fries for coffee, you'd rather have fries than coffee eh",
+            "price": "$10.00",
+            "Manufacturer": "Cofrie"
+        },
+        {
+            "ID" : "9",
+            "Image" : "https://images.unsplash.com/photo-1576642589533-e97a22f9dadc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "Descrption": "Doritos with the tasty crunch in cholocate flavoured version",
+            "price": "$14.00",
+            "Manufacturer": "Doritos"
+        },
+        {
+            "ID" : "10",
+            "Image" : "hhttps://images.unsplash.com/photo-1598679253544-2c97992403ea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "Descrption": "Ghetto but classy, Chips on a newspaper while you sip on milk",
+            "price": "$39.99",
+            "Manufacturer": "Clahato"
+        },
+    ]
+    
+    }

@@ -1,0 +1,70 @@
+{
+    "Total-Category":9,
+    
+    "data": [
+        {
+            "ID" : "1",
+            "Image" : "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&auto=format&fit=crop&w=714&q=80",
+            "Descrption": "Veggi Pizza for vegetarians",
+            "price": "$6.50",
+            "Manufacturer": "Veggipiz"
+        },
+        {
+            "ID" :"2",
+            "Image" : "https://images.unsplash.com/photo-1571066811602-716837d681de?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=462&q=80",
+            "Descrption": "Meat Lovers pizza, Eat till you get tired, Suggested for body builders",
+            "price": "$7.00",
+            "Manufacturer": "Milly"
+        },
+        {
+            "ID" : "3",
+            "Image" : "https://images.unsplash.com/photo-1552539618-7eec9b4d1796?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=733&q=80",
+            "Descrption": "Pepperoni Pizza made under 15 minutes",
+            "price": "$10.00",
+            "Manufacturer": "Pappy Pappa"
+        },
+        {
+            "ID" : "4",
+            "Image" : "https://images.unsplash.com/photo-1585238342024-78d387f4a707?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+            "Descrption": "Not your regular round pizza, This pizza increases bond with your two closest friend",
+            "price": "$9.00",
+            "Manufacturer": "Clique"
+        },
+        {
+            "ID" : "5",
+            "Image" : "https://images.unsplash.com/photo-1584365685547-9a5fb6f3a70c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "Descrption": "Pizza in sausage form just to spice things up, It comes in Different Flavours",
+            "price": "$4.50",
+            "Manufacturer": "Pizzauge"
+        },
+        {
+            "ID" : "6",
+            "Image" : "https://images.unsplash.com/photo-1546993641-097e8366bba0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "Descrption": "Pizza comes with salad Flavours, Endless Pizza design, stand out with the pizza salad. you can also try it if you are undecided about ur Pizza Choice",
+            "price": "$12.00",
+            "Manufacturer": "Pizzald"
+        },
+        {
+            "ID" : "7",
+            "Image" : "https://images.unsplash.com/photo-1559608568-99cb288ccebe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "Descrption": "Cheesey-Easy, unwind after a long stressful day with the cheese pizza",
+            "price": "$5.55",
+            "Manufacturer": "chepiz"
+        },
+        {
+            "ID" : "8",
+            "Image" : "https://images.unsplash.com/photo-1516697073-419b2bd079db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80",
+            "Descrption": "Combo Pizza for you and special friend, Buy one and get one free for that special someone or friend",
+            "price": "$18.00",
+            "Manufacturer": "SPEZZA"
+        },
+        {
+            "ID" : "9",
+            "Image" : "https://images.unsplash.com/photo-1564936281291-294551497d81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1249&q=80",
+            "Descrption": "Fortune cookies are not only for cookies, This Pizza writes fortune in chinese for you",
+            "price": "$14.00",
+            "Manufacturer": "Chizza"
+        }
+    ]
+    
+    }

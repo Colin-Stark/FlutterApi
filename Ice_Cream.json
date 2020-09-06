@@ -1,0 +1,84 @@
+{
+    "Total-Category":11,
+    
+    "data": [
+        {
+            "ID" : "1",
+            "Image" : "https://images.unsplash.com/photo-1562790879-dfde82829db0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80",
+            "Descrption": "Chocolate Flavoured Ice Cream with a brown cone",
+            "price": "$0.50",
+            "Manufacturer": "Chocbul"
+        },
+        {
+            "ID" :"2",
+            "Image" : "https://images.unsplash.com/photo-1570197788417-0e82375c9371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=652&q=80",
+            "Descrption": "Vanilla Flavoured Icre cream served on a plate with a stainless steel spoon to dig in",
+            "price": "$1.25",
+            "Manufacturer": "Fanice"
+        },
+        {
+            "ID" : "3",
+            "Image" : "https://images.unsplash.com/photo-1505394033641-40c6ad1178d7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1012&q=80",
+            "Descrption": "StrawBerry Flavoured Stick Ice Cream on a stick commonly known as the strawpy popsicle. Best for valentines and watching Movies",
+            "price": "$0.20",
+            "Manufacturer": "Slicly"
+        },
+        {
+            "ID" : "4",
+            "Image" : "https://images.unsplash.com/photo-1563805042-7684c019e1cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=564&q=80",
+            "Descrption": "Oreos mashed flavoured ice cream in a glass, no utensil need to consume, only served at our Vendor",
+            "price": "$0.75",
+            "Manufacturer": "Slicly"
+        },
+        {
+            "ID" : "5",
+            "Image" : "https://images.unsplash.com/photo-1560008581-09826d1de69e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=682&q=80",
+            "Descrption": "Vanilla Sprinkled Ice Cream on a bowl with spoons at our Vendors nationawide, it will cost an extra 50 cents for delivery",
+            "price": "$1.00 - $1.50",
+            "Manufacturer": "Slicly"
+        },
+        {
+            "ID" : "6",
+            "Image" : "https://images.unsplash.com/photo-1579954115567-dff2eeb6fdeb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "Descrption": "Thrice on glass, Put a class on your Ice Cream, take it to the next level as it it was on a runway for ice cream,this ice cream features three flavours, Strawberry,Cream and Blue Sky sweet vannilla",
+            "price": "$3.25",
+            "Manufacturer": "Grammys"
+        },
+        {
+            "ID" : "7",
+            "Image" : "https://images.unsplash.com/photo-1543255006-d6395b6f1171?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+            "Descrption": "Vanilla Cup Cake Ice Cream with a little chocolate spreading and some tomatoe slices, The most healthy excuse to take an ice cream",
+            "price": "$2.75",
+            "Manufacturer": "GreenLife"
+        },
+        {
+            "ID" : "8",
+            "Image" : "https://images.unsplash.com/photo-1534706936160-d5ee67737249?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "Descrption": "On the GO ice cream for dates and small Gatherings",
+            "price": "$1.15",
+            "Manufacturer": "FAN-ICE"
+        },
+        {
+            "ID" : "9",
+            "Image" : "https://images.unsplash.com/photo-1534706936160-d5ee67737249?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "Descrption": "Think thanksgiving chicken wrapping but with Vannilla Ice Cream and a bit of chocolate spreading as the Turkey, You Cn have Thanksgiving everyday",
+            "price": "$5.00",
+            "Manufacturer": "American Heritage Chocolate(Ice-Giving)"
+        },
+        {
+            "ID" : "10",
+            "Image" : "https://images.unsplash.com/photo-1488900128323-21503983a07e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "Descrption": "Purple Colored StrawBerry Flavoured Popsicle ",
+            "price": "$0.45",
+            "Manufacturer": "Coloured-Icey"
+        },
+        {
+            "ID" : "11",
+            "Image" : "https://images.unsplash.com/photo-1563252781-2f76e089e889?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "Descrption": "Couple Ice Cream in an entangled Stand, Vanilla on the left and Chocolate on the right",
+            "price": "$0.45",
+            "Manufacturer": "Interracial-Icey"
+        }
+    ]
+    
+    }

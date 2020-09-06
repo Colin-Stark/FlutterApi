@@ -1,0 +1,84 @@
+{
+    "Total-Category":11,
+    
+    "data": [
+        {
+            "ID" : "1",
+            "Image" : "https://images.unsplash.com/photo-1527960471264-932f39eb5846?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "Descrption": "Seven Assorted soft drink for each days of the week",
+            "price": "$9.99",
+            "Manufacturer": "Soda Club"
+        },
+        {
+            "ID" :"2",
+            "Image" : "https://images.unsplash.com/photo-1566559532061-6486aa691226?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=564&q=80",
+            "Descrption": "Soda bottle Coca Cola with a glass",
+            "price": "$9.99",
+            "Manufacturer": "Soda Club"
+        },
+        {
+            "ID" : "3",
+            "Image" : "https://images.unsplash.com/photo-1524802020103-aa46eaffcaa2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "Descrption": "Orange Flavoured Fanta Pack in can and bottles",
+            "price": "$20.00",
+            "Manufacturer": "Coca Cola"
+        },
+        {
+            "ID" : "4",
+            "Image" : "https://images.unsplash.com/photo-1582237054380-b6362d21256e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "Descrption": "Get a taste of the mexican culture with their soda called Jarritos",
+            "price": "$8.99",
+            "Manufacturer": "San Hose Jarritos"
+        },
+        {
+            "ID" : "5",
+            "Image" : "https://images.unsplash.com/photo-1543253687-c931c8e01820?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80",
+            "Descrption": "Zero Sugar from Coca Cola in a can to go with you ",
+            "price": "$8.99",
+            "Manufacturer": "Coca Cola"
+        },
+        {
+            "ID" : "6",
+            "Image" : "https://images.unsplash.com/photo-1596793453600-adeef0163df2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+            "Descrption": "Chupa Chups the sparkling orange flavoured drink with it roots in mexico",
+            "price": "$9.99",
+            "Manufacturer": "Hose drinks"
+        },
+        {
+            "ID" : "7",
+            "Image" : "https://images.unsplash.com/photo-1581006855389-c17d881f3baf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=614&q=80",
+            "Descrption": "Schwepps ornge flavoured will have you salivating in no time",
+            "price": "$10.50",
+            "Manufacturer": "Schwepps"
+        },
+        {
+            "ID" : "8",
+            "Image" : "https://images.unsplash.com/photo-1560689189-65b6ed6228e7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80",
+            "Descrption": "Monster Energy Drink to energize you",
+            "price": "$20.90",
+            "Manufacturer": "Monster"
+        },
+        {
+            "ID": "9",
+            "Image": "https://images.unsplash.com/photo-1588710941818-fa657efa0cb0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "Descrption": "Red Bull Energy Drink",
+            "price": "$8.99",
+            "Manufacturer": "Red Bull"
+        },
+        {
+            "ID": "10",
+            "Image": "https://images.unsplash.com/photo-1596588357871-10a1d24fc0d3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "Descrption": "Gfuel in a white plastic cup for your comfortability",
+            "price": "$10.00",
+            "Manufacturer": "G-Fuel"
+        },
+        {
+            "ID": "11",
+            "Image": "https://images.unsplash.com/photo-1586045509364-0b14f35c814d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "Descrption": "Uptime energy drink keeps you up for longer, good replacement for coffee",
+            "price" : "$20.99",
+            "Manufacturer": "Uptime"
+        }
+    ]
+    
+    }
